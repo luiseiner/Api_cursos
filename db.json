@@ -1,0 +1,36 @@
+{
+  "datos": [
+    {
+      "id": 1,
+      "curso": "Matemáticas"
+    },
+    {
+      "id": 2,
+      "curso": "Historia"
+    },
+    {
+      "id": 3,
+      "curso": "Ciencias"
+    },
+    {
+      "id": 4,
+      "curso": "Inglés"
+    },
+    {
+      "id": 5,
+      "curso": "Programación"
+    },
+    {
+      "id": 6,
+      "curso": "Arte"
+    },
+    {
+      "id": 7,
+      "curso": "Literatura"
+    },
+    {
+      "id": 8,
+      "curso": "Educación Física"
+    }
+  ]
+}
